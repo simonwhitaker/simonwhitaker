@@ -1,4 +1,9 @@
-### Hi there 👋
+## 🐛 Bug Bash videos 🎥
+
+I make videos of some of the PRs I submit:
+
+* 🎞️ [Bug bash: lazygit](https://www.youtube.com/watch?v=3QuPf_NIlzo): a recording of me writing https://github.com/jesseduffield/lazygit/pull/3192
+* 🎞️ [Bug bash: trufflehog](https://www.youtube.com/watch?v=73KLAK8tLlY): a recording of me writing https://github.com/trufflesecurity/trufflehog/pull/2510
 
 <!--
 **simonwhitaker/simonwhitaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
