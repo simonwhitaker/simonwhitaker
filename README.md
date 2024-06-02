@@ -2,8 +2,9 @@
 
 I make videos of some of the PRs I submit:
 
-* 🎞️ [Bug bash: lazygit](https://www.youtube.com/watch?v=3QuPf_NIlzo): a recording of me writing https://github.com/jesseduffield/lazygit/pull/3192
+* 🎞️ [Bug bash: CodeEdit.app](https://www.youtube.com/watch?v=9EOzGq4oDhg): a recording of me writing https://github.com/CodeEditApp/CodeEdit/pull/1742
 * 🎞️ [Bug bash: trufflehog](https://www.youtube.com/watch?v=73KLAK8tLlY): a recording of me writing https://github.com/trufflesecurity/trufflehog/pull/2510
+* 🎞️ [Bug bash: lazygit](https://www.youtube.com/watch?v=3QuPf_NIlzo): a recording of me writing https://github.com/jesseduffield/lazygit/pull/3192
 
 <!--
 **simonwhitaker/simonwhitaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
