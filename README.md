@@ -2,7 +2,7 @@
 
 I'm Simon Whitaker, a software engineer and engineering manager from Oxfordshire, UK.
 
-I'm currently working on [Coral 🪸](https://github.com/withcoral/coral), the data access layer for enterprise coding agents. Check it out!
+I'm currently working on 🪸 [Coral](https://github.com/withcoral/coral), the data access layer for enterprise coding agents. Check it out!
 
 ## 🐛 Bug Bash videos 🎥
 
